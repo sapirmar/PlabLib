@@ -4,7 +4,11 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 import java.util.Stack;
-
+/**
+ * strips algorithm
+ * @author Sapir Markel and Roee Sisso
+ *
+ */
 public class Strips implements Planner {
 
 	private Plannable plannable;
